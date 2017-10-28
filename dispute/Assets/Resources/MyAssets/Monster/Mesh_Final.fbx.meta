@@ -1,0 +1,2337 @@
+fileFormatVersion: 2
+guid: 7c169fda03ee37f4581f30ac4b744ce3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BLFemur
+    100002: BLFootBone1
+    100004: BLFootBone2
+    100006: BLMetarsal
+    100008: BLTibia
+    100010: BRFemur
+    100012: BRFootBone1
+    100014: BRFootBone2
+    100016: BRMetarsal
+    100018: BRTibia
+    100020: Head
+    100022: L_Big_Toe
+    100024: L_Big_Toe_End
+    100026: L_Big_Toe_Middle
+    100028: L_Index
+    100030: L_Index_End
+    100032: L_Index_Middle
+    100034: L_Index_Toe
+    100036: L_Index_Toe_End
+    100038: L_Index_Toe_Middle
+    100040: L_Little
+    100042: L_Little_End
+    100044: L_Little_Middle
+    100046: L_Middle
+    100048: L_Middle_End
+    100050: L_Middle_Middle
+    100052: L_Middle_Toe
+    100054: L_Middle_Toe_End
+    100056: L_Middle_Toe_Middle
+    100058: L_Small_Toe
+    100060: L_Small_Toe_End
+    100062: L_Small_Toe_Middle
+    100064: L_Thumb
+    100066: L_Thumb_End
+    100068: L_Thumb_Middle
+    100070: LFootBone1
+    100072: LFootBone2
+    100074: LowerJaw
+    100076: LowerJaw_End
+    100078: LShin
+    100080: LShoulder
+    100082: LThigh
+    100084: //RootNode
+    100086: Neck
+    100088: R_Big_Toe
+    100090: R_Big_Toe_End
+    100092: R_Big_Toe_Middle
+    100094: R_Index
+    100096: R_Index_End
+    100098: R_Index_Middle
+    100100: R_Index_Toe
+    100102: R_Index_Toe_End
+    100104: R_Index_Toe_Middle
+    100106: R_Little
+    100108: R_Little_End
+    100110: R_Little_Middle
+    100112: R_Middle
+    100114: R_Middle_End
+    100116: R_Middle_Middle
+    100118: R_Middle_Toe
+    100120: R_Middle_Toe_End
+    100122: R_Middle_Toe_Middle
+    100124: R_Small_Toe
+    100126: R_Small_Toe_End
+    100128: R_Small_Toe_Middle
+    100130: R_Thumb
+    100132: R_Thumb_End
+    100134: R_Thumb_Middle
+    100136: RFootBone1
+    100138: RFootBone2
+    100140: RShin
+    100142: RShoulder
+    100144: RThigh
+    100146: Skeleton_Root
+    100148: SpineStart1
+    100150: SpineVertebra1
+    100152: TopVertebra1
+    100154: Tounge_End
+    100156: Tounge_Middle
+    100158: Tounge_Start
+    100160: U3DMesh
+    100162: UpperBody
+    400000: BLFemur
+    400002: BLFootBone1
+    400004: BLFootBone2
+    400006: BLMetarsal
+    400008: BLTibia
+    400010: BRFemur
+    400012: BRFootBone1
+    400014: BRFootBone2
+    400016: BRMetarsal
+    400018: BRTibia
+    400020: Head
+    400022: L_Big_Toe
+    400024: L_Big_Toe_End
+    400026: L_Big_Toe_Middle
+    400028: L_Index
+    400030: L_Index_End
+    400032: L_Index_Middle
+    400034: L_Index_Toe
+    400036: L_Index_Toe_End
+    400038: L_Index_Toe_Middle
+    400040: L_Little
+    400042: L_Little_End
+    400044: L_Little_Middle
+    400046: L_Middle
+    400048: L_Middle_End
+    400050: L_Middle_Middle
+    400052: L_Middle_Toe
+    400054: L_Middle_Toe_End
+    400056: L_Middle_Toe_Middle
+    400058: L_Small_Toe
+    400060: L_Small_Toe_End
+    400062: L_Small_Toe_Middle
+    400064: L_Thumb
+    400066: L_Thumb_End
+    400068: L_Thumb_Middle
+    400070: LFootBone1
+    400072: LFootBone2
+    400074: LowerJaw
+    400076: LowerJaw_End
+    400078: LShin
+    400080: LShoulder
+    400082: LThigh
+    400084: //RootNode
+    400086: Neck
+    400088: R_Big_Toe
+    400090: R_Big_Toe_End
+    400092: R_Big_Toe_Middle
+    400094: R_Index
+    400096: R_Index_End
+    400098: R_Index_Middle
+    400100: R_Index_Toe
+    400102: R_Index_Toe_End
+    400104: R_Index_Toe_Middle
+    400106: R_Little
+    400108: R_Little_End
+    400110: R_Little_Middle
+    400112: R_Middle
+    400114: R_Middle_End
+    400116: R_Middle_Middle
+    400118: R_Middle_Toe
+    400120: R_Middle_Toe_End
+    400122: R_Middle_Toe_Middle
+    400124: R_Small_Toe
+    400126: R_Small_Toe_End
+    400128: R_Small_Toe_Middle
+    400130: R_Thumb
+    400132: R_Thumb_End
+    400134: R_Thumb_Middle
+    400136: RFootBone1
+    400138: RFootBone2
+    400140: RShin
+    400142: RShoulder
+    400144: RThigh
+    400146: Skeleton_Root
+    400148: SpineStart1
+    400150: SpineVertebra1
+    400152: TopVertebra1
+    400154: Tounge_End
+    400156: Tounge_Middle
+    400158: Tounge_Start
+    400160: U3DMesh
+    400162: UpperBody
+    4300000: U3DMesh
+    7400000: Default0
+    7400002: Attack
+    7400004: Death
+    7400006: Idle_02
+    7400008: Idle_01
+    7400010: Run
+    7400012: Eat_Play
+    7400014: Idle_03
+    7400016: Walk
+    7400018: Hit_Right
+    7400020: Hit_Left
+    11100000: //RootNode
+    13700000: U3DMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default0
+      takeName: Default0
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Attack
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_02
+      takeName: Idle_02
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_01
+      takeName: Idle_01
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Eat_Play
+      takeName: Eat_Play
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_03
+      takeName: Idle_03
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit_Right
+      takeName: Hit_Right
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit_Left
+      takeName: Hit_Left
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Skeleton_Root
+        weight: 1
+      - path: Skeleton_Root/UpperBody
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Big_Toe/L_Big_Toe_Middle/L_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Index_Toe/L_Index_Toe_Middle/L_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Middle_Toe/L_Middle_Toe_Middle/L_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BLFemur/BLTibia/BLMetarsal/BLFootBone1/BLFootBone2/L_Small_Toe/L_Small_Toe_Middle/L_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Big_Toe/R_Big_Toe_Middle/R_Big_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Index_Toe/R_Index_Toe_Middle/R_Index_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Middle_Toe/R_Middle_Toe_Middle/R_Middle_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/BRFemur/BRTibia/BRMetarsal/BRFootBone1/BRFootBone2/R_Small_Toe/R_Small_Toe_Middle/R_Small_Toe_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Index/L_Index_Middle/L_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Little/L_Little_Middle/L_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Middle/L_Middle_Middle/L_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/LShoulder/LThigh/LShin/LFootBone1/LFootBone2/L_Thumb/L_Thumb_Middle/L_Thumb_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/LowerJaw_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/Neck/Head/LowerJaw/Tounge_Start/Tounge_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Index/R_Index_Middle/R_Index_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Little/R_Little_Middle/R_Little_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Middle/R_Middle_Middle/R_Middle_End
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle
+        weight: 1
+      - path: Skeleton_Root/UpperBody/SpineStart1/SpineVertebra1/TopVertebra1/RShoulder/RThigh/RShin/RFootBone1/RFootBone2/R_Thumb/R_Thumb_Middle/R_Thumb_End
+        weight: 1
+      - path: U3DMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

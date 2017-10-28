@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 6d87a33a498ec40af9da196c4336b6c5
+timeCreated: 1459925625
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_Cloth
+    100002: B_Cloth_b
+    100004: //RootNode
+    100006: BUFFBONE_CSTM_WEAPON_1
+    100008: BUFFBONE_CSTM_WEAPON_2
+    100010: BUFFBONE_CSTM_WEAPON_3
+    100012: BUFFBONE_CSTM_WEAPON_4
+    100014: BUFFBONE_CSTM_WEAPON_5
+    100016: BUFFBONE_GLB_CHANNEL_LOC
+    100018: BUFFBONE_GLB_GROUND_LOC
+    100020: BUFFBONE_GLB_WEAPON_1
+    100022: C_BUFFBONE_GLB_CENTER_LOC
+    100024: C_BUFFBONE_GLB_CHEST_LOC
+    100026: C_BUFFBONE_GLB_HEAD_LOC
+    100028: C_BUFFBONE_GLB_LAYOUT_LOC
+    100030: C_BUFFBONE_GLB_OVERHEAD_LOC
+    100032: C_Hair
+    100034: C_Hair_b
+    100036: C_Hair_c
+    100038: C_Hair_d
+    100040: C_Hair_e
+    100042: C_Hair_f
+    100044: C_Hip
+    100046: C_Mouth
+    100048: C_Neck
+    100050: chest
+    100052: F_Cloth
+    100054: F_Cloth_b
+    100056: Flag
+    100058: Flag_b
+    100060: Flag_c
+    100062: head
+    100064: L_Armor
+    100066: L_Armor_b
+    100068: L_BUFFBONE_GLB_FOOT_LOC
+    100070: L_BUFFBONE_GLB_HAND_LOC
+    100072: L_Finger_Index
+    100074: L_Finger_Index_b
+    100076: L_Foot
+    100078: L_ForeArm
+    100080: L_Hand
+    100082: L_Knee
+    100084: L_PARENTING_HAND_LOC
+    100086: L_Shoulder
+    100088: L_Thigh
+    100090: L_Thumb_Index
+    100092: L_Thumb_Index_b
+    100094: L_Toe
+    100096: L_UpArm
+    100098: R_Armor
+    100100: R_Armor_b
+    100102: R_BUFFBONE_GLB_FOOT_LOC
+    100104: R_BUFFBONE_GLB_HAND_LOC
+    100106: R_Finger_Index
+    100108: R_Finger_Index_b
+    100110: R_Foot
+    100112: R_ForeArm
+    100114: R_Hand
+    100116: R_Knee
+    100118: R_PARENTING_HAND_LOC
+    100120: R_Shoulder
+    100122: R_Thigh
+    100124: R_Thumb_Index
+    100126: R_Thumb_Index_b
+    100128: R_Toe
+    100130: R_UpArm
+    100132: root
+    100134: spine
+    100136: transformXinZhao_wingedhussar
+    100138: Weapon
+    400000: B_Cloth
+    400002: B_Cloth_b
+    400004: //RootNode
+    400006: BUFFBONE_CSTM_WEAPON_1
+    400008: BUFFBONE_CSTM_WEAPON_2
+    400010: BUFFBONE_CSTM_WEAPON_3
+    400012: BUFFBONE_CSTM_WEAPON_4
+    400014: BUFFBONE_CSTM_WEAPON_5
+    400016: BUFFBONE_GLB_CHANNEL_LOC
+    400018: BUFFBONE_GLB_GROUND_LOC
+    400020: BUFFBONE_GLB_WEAPON_1
+    400022: C_BUFFBONE_GLB_CENTER_LOC
+    400024: C_BUFFBONE_GLB_CHEST_LOC
+    400026: C_BUFFBONE_GLB_HEAD_LOC
+    400028: C_BUFFBONE_GLB_LAYOUT_LOC
+    400030: C_BUFFBONE_GLB_OVERHEAD_LOC
+    400032: C_Hair
+    400034: C_Hair_b
+    400036: C_Hair_c
+    400038: C_Hair_d
+    400040: C_Hair_e
+    400042: C_Hair_f
+    400044: C_Hip
+    400046: C_Mouth
+    400048: C_Neck
+    400050: chest
+    400052: F_Cloth
+    400054: F_Cloth_b
+    400056: Flag
+    400058: Flag_b
+    400060: Flag_c
+    400062: head
+    400064: L_Armor
+    400066: L_Armor_b
+    400068: L_BUFFBONE_GLB_FOOT_LOC
+    400070: L_BUFFBONE_GLB_HAND_LOC
+    400072: L_Finger_Index
+    400074: L_Finger_Index_b
+    400076: L_Foot
+    400078: L_ForeArm
+    400080: L_Hand
+    400082: L_Knee
+    400084: L_PARENTING_HAND_LOC
+    400086: L_Shoulder
+    400088: L_Thigh
+    400090: L_Thumb_Index
+    400092: L_Thumb_Index_b
+    400094: L_Toe
+    400096: L_UpArm
+    400098: R_Armor
+    400100: R_Armor_b
+    400102: R_BUFFBONE_GLB_FOOT_LOC
+    400104: R_BUFFBONE_GLB_HAND_LOC
+    400106: R_Finger_Index
+    400108: R_Finger_Index_b
+    400110: R_Foot
+    400112: R_ForeArm
+    400114: R_Hand
+    400116: R_Knee
+    400118: R_PARENTING_HAND_LOC
+    400120: R_Shoulder
+    400122: R_Thigh
+    400124: R_Thumb_Index
+    400126: R_Thumb_Index_b
+    400128: R_Toe
+    400130: R_UpArm
+    400132: root
+    400134: spine
+    400136: transformXinZhao_wingedhussar
+    400138: Weapon
+    4300000: transformXinZhao_wingedhussar
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: transformXinZhao_wingedhussar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
