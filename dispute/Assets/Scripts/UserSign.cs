@@ -26,6 +26,8 @@ public class UserSign : MonoBehaviour {
 		Dictionary<string,string> LogonInfo = new Dictionary<string,string>();
 		LogonInfo.Add("Content-Type", "application/Json");
 		string data = "{'email':" + GameObject.Find("Center/BG1/AccountNumber").GetComponent<InputField>().text + ",'password':" + GameObject.Find("Center/BG1/PassWord").GetComponent<InputField>().text + "}";
+		Debug.Log (GameObject.Find ("Center/BG1/AccountNumber").GetComponent<InputField> ().text);
+		Debug.Log (GameObject.Find ("Center/BG1/PassWord").GetComponent<InputField> ().text);
 		byte[] bs = System.Text.UTF8Encoding.UTF8.GetBytes (data);
 		WWW www = new WWW ("http://123.56.50.222:8050/userReqister", bs, LogonInfo);
 		yield return www;
@@ -38,10 +40,10 @@ public class UserSign : MonoBehaviour {
 		JsonData jd = JsonMapper.ToObject (Info_M);
 		if ((string)jd ["rstcode"] == "201") {
 
-			Bg2.GetComponent<GUIText> ().text = "注册成功";
+			Bg2.GetComponent<Text> ().text = "注册成功";
 			Debug.Log (Bg2);
 		} else {
-			Bg2.GetComponent<GUIText> ().text = "用户名已被使用，请重新输入";
+			Bg2.GetComponent<Text> ().text = "用户名已被使用，请重新输入";
 		}
 	}
 	public void LgBgYes(){
