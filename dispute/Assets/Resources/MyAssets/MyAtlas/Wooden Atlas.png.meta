@@ -1,0 +1,3554 @@
+fileFormatVersion: 2
+guid: 172cbffaf091a41088cb9bb32e54c220
+timeCreated: 1509253843
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wooden Atlas_0
+    21300002: Wooden Atlas_1
+    21300004: Wooden Atlas_2
+    21300006: Wooden Atlas_3
+    21300008: Wooden Atlas_4
+    21300010: Wooden Atlas_5
+    21300012: Wooden Atlas_6
+    21300014: Wooden Atlas_7
+    21300016: Wooden Atlas_8
+    21300018: Wooden Atlas_9
+    21300020: Wooden Atlas_10
+    21300022: Wooden Atlas_11
+    21300024: Wooden Atlas_12
+    21300026: Wooden Atlas_13
+    21300028: Wooden Atlas_14
+    21300030: Wooden Atlas_15
+    21300032: Wooden Atlas_16
+    21300034: Wooden Atlas_17
+    21300036: Wooden Atlas_18
+    21300038: Wooden Atlas_19
+    21300040: Wooden Atlas_20
+    21300042: Wooden Atlas_21
+    21300044: Wooden Atlas_22
+    21300046: Wooden Atlas_23
+    21300048: Wooden Atlas_24
+    21300050: Wooden Atlas_25
+    21300052: Wooden Atlas_26
+    21300054: Wooden Atlas_27
+    21300056: Wooden Atlas_28
+    21300058: Wooden Atlas_29
+    21300060: Wooden Atlas_30
+    21300062: Wooden Atlas_31
+    21300064: Wooden Atlas_32
+    21300066: Wooden Atlas_33
+    21300068: Wooden Atlas_34
+    21300070: Wooden Atlas_35
+    21300072: Wooden Atlas_36
+    21300074: Wooden Atlas_37
+    21300076: Wooden Atlas_38
+    21300078: Wooden Atlas_39
+    21300080: Wooden Atlas_40
+    21300082: Wooden Atlas_41
+    21300084: Wooden Atlas_42
+    21300086: Wooden Atlas_43
+    21300088: Wooden Atlas_44
+    21300090: Wooden Atlas_45
+    21300092: Wooden Atlas_46
+    21300094: Wooden Atlas_47
+    21300096: Wooden Atlas_48
+    21300098: Wooden Atlas_49
+    21300100: Wooden Atlas_50
+    21300102: Wooden Atlas_51
+    21300104: Wooden Atlas_52
+    21300106: Wooden Atlas_53
+    21300108: Wooden Atlas_54
+    21300110: Wooden Atlas_55
+    21300112: Wooden Atlas_56
+    21300114: Wooden Atlas_57
+    21300116: Wooden Atlas_58
+    21300118: Wooden Atlas_59
+    21300120: Wooden Atlas_60
+    21300122: Wooden Atlas_61
+    21300124: Wooden Atlas_62
+    21300126: Wooden Atlas_63
+    21300128: Wooden Atlas_64
+    21300130: Wooden Atlas_65
+    21300132: Wooden Atlas_66
+    21300134: Wooden Atlas_67
+    21300136: Wooden Atlas_68
+    21300138: Wooden Atlas_69
+    21300140: Wooden Atlas_70
+    21300142: Wooden Atlas_71
+    21300144: Wooden Atlas_72
+    21300146: Wooden Atlas_73
+    21300148: Wooden Atlas_74
+    21300150: Wooden Atlas_75
+    21300152: Wooden Atlas_76
+    21300154: Wooden Atlas_77
+    21300156: Wooden Atlas_78
+    21300158: Wooden Atlas_79
+    21300160: Wooden Atlas_80
+    21300162: Wooden Atlas_81
+    21300164: Wooden Atlas_82
+    21300166: Wooden Atlas_83
+    21300168: Wooden Atlas_84
+    21300170: Wooden Atlas_85
+    21300172: Wooden Atlas_86
+    21300174: Wooden Atlas_87
+    21300176: Wooden Atlas_88
+    21300178: Wooden Atlas_89
+    21300180: Wooden Atlas_90
+    21300182: Wooden Atlas_91
+    21300184: Wooden Atlas_92
+    21300186: Wooden Atlas_93
+    21300188: Wooden Atlas_94
+    21300190: Wooden Atlas_95
+    21300192: Wooden Atlas_96
+    21300194: Wooden Atlas_97
+    21300196: Wooden Atlas_98
+    21300198: Wooden Atlas_99
+    21300200: Wooden Atlas_100
+    21300202: Wooden Atlas_101
+    21300204: Wooden Atlas_102
+    21300206: Wooden Atlas_103
+    21300208: Wooden Atlas_104
+    21300210: Wooden Atlas_105
+    21300212: Wooden Atlas_106
+    21300214: Wooden Atlas_107
+    21300216: Wooden Atlas_108
+    21300218: Wooden Atlas_109
+    21300220: Wooden Atlas_110
+    21300222: Wooden Atlas_111
+    21300224: Wooden Atlas_112
+    21300226: Wooden Atlas_113
+    21300228: Wooden Atlas_114
+    21300230: Wooden Atlas_115
+    21300232: Wooden Atlas_116
+    21300234: Wooden Atlas_117
+    21300236: Wooden Atlas_118
+    21300238: Wooden Atlas_119
+    21300240: Wooden Atlas_120
+    21300242: Wooden Atlas_121
+    21300244: Wooden Atlas_122
+    21300246: Wooden Atlas_123
+    21300248: Wooden Atlas_124
+    21300250: Wooden Atlas_125
+    21300252: Wooden Atlas_126
+    21300254: Wooden Atlas_127
+    21300256: Wooden Atlas_128
+    21300258: Wooden Atlas_129
+    21300260: Wooden Atlas_130
+    21300262: Wooden Atlas_131
+    21300264: Wooden Atlas_132
+    21300266: Wooden Atlas_133
+    21300268: Wooden Atlas_134
+    21300270: Wooden Atlas_135
+    21300272: Wooden Atlas_136
+    21300274: Wooden Atlas_137
+    21300276: Wooden Atlas_138
+    21300278: Wooden Atlas_139
+    21300280: Wooden Atlas_140
+    21300282: Wooden Atlas_141
+    21300284: Wooden Atlas_142
+    21300286: Wooden Atlas_143
+    21300288: Wooden Atlas_144
+    21300290: Wooden Atlas_145
+    21300292: Wooden Atlas_146
+    21300294: Wooden Atlas_147
+    21300296: Wooden Atlas_148
+    21300298: Wooden Atlas_149
+    21300300: Wooden Atlas_150
+    21300302: Wooden Atlas_151
+    21300304: Wooden Atlas_152
+    21300306: Wooden Atlas_153
+    21300308: Wooden Atlas_154
+    21300310: Wooden Atlas_155
+    21300312: Wooden Atlas_156
+    21300314: Wooden Atlas_157
+    21300316: Wooden Atlas_158
+    21300318: Wooden Atlas_159
+    21300320: Wooden Atlas_160
+    21300322: Wooden Atlas_161
+    21300324: Wooden Atlas_162
+    21300326: Wooden Atlas_163
+    21300328: Wooden Atlas_164
+    21300330: Wooden Atlas_165
+    21300332: Wooden Atlas_166
+    21300334: Wooden Atlas_167
+    21300336: Wooden Atlas_168
+    21300338: Wooden Atlas_169
+    21300340: Wooden Atlas_170
+    21300342: Wooden Atlas_171
+    21300344: Wooden Atlas_172
+    21300346: Wooden Atlas_173
+    21300348: Wooden Atlas_174
+    21300350: Wooden Atlas_175
+    21300352: Wooden Atlas_176
+    21300354: Wooden Atlas_177
+    21300356: Wooden Atlas_178
+    21300358: Wooden Atlas_179
+    21300360: Wooden Atlas_180
+    21300362: Wooden Atlas_181
+    21300364: Wooden Atlas_182
+    21300366: Wooden Atlas_183
+    21300368: Wooden Atlas_184
+    21300370: Wooden Atlas_185
+    21300372: Wooden Atlas_186
+    21300374: Wooden Atlas_187
+    21300376: Wooden Atlas_188
+    21300378: Wooden Atlas_189
+    21300380: Wooden Atlas_190
+    21300382: Wooden Atlas_191
+    21300384: Wooden Atlas_192
+    21300386: Wooden Atlas_193
+    21300388: Wooden Atlas_194
+    21300390: Wooden Atlas_195
+    21300392: Wooden Atlas_196
+    21300394: Wooden Atlas_197
+    21300396: Wooden Atlas_198
+    21300398: Wooden Atlas_199
+    21300400: Wooden Atlas_200
+    21300402: Wooden Atlas_201
+    21300404: Wooden Atlas_202
+    21300406: Wooden Atlas_203
+    21300408: Wooden Atlas_204
+    21300410: Wooden Atlas_205
+    21300412: Wooden Atlas_206
+    21300414: Wooden Atlas_207
+    21300416: Wooden Atlas_208
+    21300418: Wooden Atlas_209
+    21300420: Wooden Atlas_210
+    21300422: Wooden Atlas_211
+    21300424: Wooden Atlas_212
+    21300426: Wooden Atlas_213
+    21300428: Wooden Atlas_214
+    21300430: Wooden Atlas_215
+    21300432: Wooden Atlas_216
+    21300434: Wooden Atlas_217
+    21300436: Wooden Atlas_218
+    21300438: Wooden Atlas_219
+    21300440: Wooden Atlas_220
+    21300442: Wooden Atlas_221
+    21300444: Wooden Atlas_222
+    21300446: Wooden Atlas_223
+    21300448: Wooden Atlas_224
+    21300450: Wooden Atlas_225
+    21300452: Wooden Atlas_226
+    21300454: Wooden Atlas_227
+    21300456: Wooden Atlas_228
+    21300458: Wooden Atlas_229
+    21300460: Wooden Atlas_230
+    21300462: Wooden Atlas_231
+    21300464: Wooden Atlas_232
+    21300466: Wooden Atlas_233
+    21300468: Wooden Atlas_234
+    21300470: Wooden Atlas_235
+    21300472: Wooden Atlas_236
+    21300474: Wooden Atlas_237
+    21300476: Wooden Atlas_238
+    21300478: Wooden Atlas_239
+    21300480: Wooden Atlas_240
+    21300482: Wooden Atlas_241
+    21300484: Wooden Atlas_242
+    21300486: Wooden Atlas_243
+    21300488: Wooden Atlas_244
+    21300490: Wooden Atlas_245
+    21300492: Wooden Atlas_246
+    21300494: Wooden Atlas_247
+    21300496: Wooden Atlas_248
+    21300498: Wooden Atlas_249
+    21300500: Wooden Atlas_250
+    21300502: Wooden Atlas_251
+    21300504: Wooden Atlas_252
+    21300506: Wooden Atlas_253
+    21300508: Wooden Atlas_254
+    21300510: Wooden Atlas_255
+    21300512: Wooden Atlas_256
+    21300514: Wooden Atlas_257
+    21300516: Wooden Atlas_258
+    21300518: Wooden Atlas_259
+    21300520: Wooden Atlas_260
+    21300522: Wooden Atlas_261
+    21300524: Wooden Atlas_262
+    21300526: Wooden Atlas_263
+    21300528: Wooden Atlas_264
+    21300530: Wooden Atlas_265
+    21300532: Wooden Atlas_266
+    21300534: Wooden Atlas_267
+    21300536: Wooden Atlas_268
+    21300538: Wooden Atlas_269
+    21300540: Wooden Atlas_270
+    21300542: Wooden Atlas_271
+    21300544: Wooden Atlas_272
+    21300546: Wooden Atlas_273
+    21300548: Wooden Atlas_274
+    21300550: Wooden Atlas_275
+    21300552: Wooden Atlas_276
+    21300554: Wooden Atlas_277
+    21300556: Wooden Atlas_278
+    21300558: Wooden Atlas_279
+    21300560: Wooden Atlas_280
+    21300562: Wooden Atlas_281
+    21300564: Wooden Atlas_282
+    21300566: Wooden Atlas_283
+    21300568: Wooden Atlas_284
+    21300570: Wooden Atlas_285
+    21300572: Wooden Atlas_286
+    21300574: Wooden Atlas_287
+    21300576: Wooden Atlas_288
+    21300578: Wooden Atlas_289
+    21300580: Wooden Atlas_290
+    21300582: Wooden Atlas_291
+    21300584: Wooden Atlas_292
+    21300586: Wooden Atlas_293
+    21300588: Wooden Atlas_294
+    21300590: Wooden Atlas_295
+    21300592: Wooden Atlas_296
+    21300594: Wooden Atlas_297
+    21300596: Wooden Atlas_298
+    21300598: Wooden Atlas_299
+    21300600: Wooden Atlas_300
+    21300602: Wooden Atlas_301
+    21300604: Wooden Atlas_302
+    21300606: Wooden Atlas_303
+    21300608: Wooden Atlas_304
+    21300610: Wooden Atlas_305
+    21300612: Wooden Atlas_306
+    21300614: Wooden Atlas_307
+    21300616: Wooden Atlas_308
+    21300618: Wooden Atlas_309
+    21300620: Wooden Atlas_310
+    21300622: Wooden Atlas_311
+    21300624: Wooden Atlas_312
+    21300626: Wooden Atlas_313
+    21300628: Wooden Atlas_314
+    21300630: Wooden Atlas_315
+    21300632: Wooden Atlas_316
+    21300634: Wooden Atlas_317
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wooden Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 503
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 422
+        width: 179
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 451
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 468
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 452
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 470
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 468
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 448
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 452
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 437
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 452
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 420
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 440
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 432
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 437
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 437
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 433
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 433
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 434
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 387
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 409
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 423
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 423
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 423
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 397
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 423
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 424
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 424
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 413
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 413
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 398
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 387
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 421
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 421
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 411
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 387
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 408
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 380
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 411
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 411
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 412
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 410
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 399
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 400
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 396
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 396
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 397
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 377
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 398
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 398
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 398
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 399
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 399
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 400
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 398
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 399
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 367
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 400
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 400
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 387
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 386
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 383
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 388
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 384
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 390
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 395
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 376
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 389
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 389
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 383
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 356
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 376
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 343
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 354
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 374
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 367
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 334
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 375
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 375
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 376
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 355
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 335
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 356
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 339
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 339
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 356
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 356
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 324
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 356
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 356
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 351
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 356
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 337
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 326
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 357
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 366
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 366
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 347
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 355
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 355
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 355
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 355
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 336
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 349
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 354
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 357
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 338
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 339
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 339
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 340
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 336
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 341
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 255
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 323
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 323
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 324
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 324
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 324
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 324
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 324
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 310
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 325
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 325
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 325
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 325
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 326
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 313
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 300
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 309
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 296
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 310
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 310
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 284
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 310
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 319
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 311
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 299
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 296
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 297
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 297
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 284
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 298
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 300
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 284
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 266
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 284
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 285
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 286
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_207
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 271
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_208
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_210
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 270
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 270
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_212
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 260
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_213
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 270
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_214
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 274
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_216
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_217
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 273
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_218
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_219
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 273
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_220
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_221
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 275
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_222
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 275
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_223
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 271
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_224
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 271
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_225
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 276
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_226
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 263
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_227
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 264
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_228
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_229
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_230
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 267
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_231
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 268
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_232
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 270
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_234
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 259
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_235
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_236
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 260
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_237
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_238
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_239
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 227
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_240
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 220
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_241
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 215
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_242
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_243
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 183
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_244
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_245
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 212
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_246
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 214
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_247
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 220
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_248
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_250
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_251
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_252
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 184
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_253
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 176
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_254
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 176
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_255
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 178
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_256
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_257
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 143
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_258
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 180
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_259
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 143
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_260
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 196
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_261
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_262
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 155
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_263
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_264
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 180
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_265
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_266
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 48
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_267
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_268
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 147
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_269
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 143
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_270
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_271
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 143
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_272
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 140
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_273
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 164
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_274
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 164
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_275
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_276
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 144
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_277
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 143
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_278
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_279
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 110
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_280
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_281
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 108
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_282
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 109
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_283
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 108
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_284
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 107
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_285
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 108
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_286
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 107
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_287
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 108
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_288
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_289
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_290
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 76
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_291
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 72
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_292
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 72
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_293
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 72
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_294
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_295
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 71
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_296
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 72
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_297
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 71
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_298
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_299
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_300
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_301
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 36
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_302
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 36
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_303
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 36
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_304
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 36
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_305
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 36
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_306
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 36
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_307
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 36
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_308
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_309
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_310
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_311
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_312
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_313
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_314
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_315
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_316
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden Atlas_317
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
