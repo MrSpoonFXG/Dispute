@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UserSign.cs">
     <Files>
-      <File FileName="Assets/Scripts/UserSign.cs" Line="1" Column="1" />
-      <File FileName="../../DragonRule/project2/Assets/MyProject/ScriptsCp/other/Sign.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/UserSign.cs" Line="3" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
